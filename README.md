@@ -18,7 +18,7 @@ EventFlow is a web-based Event Management System developed using Laravel, React,
 * **Backend:** Laravel, PHP
 * **Frontend:** React, TypeScript, Inertia.js
 * **Database:** MySQL
-* **Styling:** Tailwind CSS
+* **Styling:** CSS
 * **Development Tools:** Visual Studio Code, Git, GitHub, Composer, npm
 
 ## Installation and Setup
